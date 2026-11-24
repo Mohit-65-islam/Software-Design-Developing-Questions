@@ -22,28 +22,28 @@ An Outcome-Based Education (OBE) question paper for the **Software Design** cour
 
 ## Questions
 
-### Q1. [8 marks] `C1 + C2` `CO1`
+### Q1. [8 marks] 
 What is software design? Explain its basic steps and its outcome.
 
-### Q2. [8 marks] `C1 + C2` `CO1`
+### Q2. [8 marks] 
 What makes a good software design? Explain modularity, coupling, cohesion, abstraction and encapsulation.
 
-### Q3. [8 marks] `C1 + C2` `CO2`
+### Q3. [8 marks]
 What is software architecture? Briefly explain any five architectural styles.
 
-### Q4. [8 marks] `C1 + C2` `CO2`
+### Q4. [8 marks] 
 Explain the MVC pattern and Object-Relational Mapping (ORM).
 
-### Q5. [8 marks] `C1 + C2` `CO3`
+### Q5. [8 marks]
 What are design patterns? Explain the classification of GoF patterns.
 
-### Q6. [8 marks] `C1 + C2` `CO3`
+### Q6. [8 marks] 
 Explain the Singleton and Observer patterns.
 
-### Q7. [8 marks] `C1 + C2` `CO4`
+### Q7. [8 marks]
 Explain the Chidamber & Kemerer (CK) metrics: CBO, LCOM, WMC, DIT and NOC.
 
-### Q8. [8 marks] `C1 + C2` `CO4`
+### Q8. [8 marks] 
 Explain the fundamental UI design principles and the guidelines for presenting information.
 
 ---
