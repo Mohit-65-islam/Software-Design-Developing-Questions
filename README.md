@@ -8,18 +8,6 @@
 An Outcome-Based Education (OBE) question paper for the **Software Design** course, built on Bloom's Taxonomy (Knowledge and Understanding levels) and aligned with the BNQF standard.
 
 ---
-
-## Exam Details
-
-| Item | Detail |
-|---|---|
-| **Course** | Software Design |
-| **Total Marks** | 40 |
-| **Time** | 1 hour |
-| **Questions given** | 8 (each 8 marks) |
-| **Questions to answer** | Any **5** (5 × 8 = 40) |
-| **Bloom levels** | C1 Knowledge, C2 Understanding |
-
 ## Questions
 
 ### Q1. [5 marks] 
